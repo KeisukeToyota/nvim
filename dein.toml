@@ -1,0 +1,27 @@
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+
+[[plugins]]
+repo = 'Shougo/denite.nvim'
+
+[[plugins]]
+repo = 'Shougo/deoplete.nvim'
+
+[[plugins]]
+repo = 'elzr/vim-json'
+
+[[plugins]]
+repo = 'w0rp/ale'
+
+[[plugins]]
+repo = 'mattn/sonictemplate-vim'
+
+[[plugins]]
+repo = 'reireias/vim-cheatsheet'
+
+[[plugins]]
+repo = 'justmao945/vim-clang'
+filetypes  =  ['c', 'cpp', 'h']
+
+[[plugins]]
+repo = 'elixir-editors/vim-elixir'
